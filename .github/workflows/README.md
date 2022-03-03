@@ -38,7 +38,7 @@ that was tagged in the `release` job.
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   release:
